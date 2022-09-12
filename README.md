@@ -1,2 +1,3 @@
-# stm32
-# stm32
+# stm32f103rbt6
+# Board NUCLEO F103RB
+# STM32Cube IDE
